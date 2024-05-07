@@ -1,3 +1,3 @@
 # Demo
 
-Description : I should learn git.
+Description : I should learn github.
